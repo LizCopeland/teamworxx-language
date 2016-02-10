@@ -1,0 +1,42 @@
+#Labels
+label-JournalArticle=Contenu Web
+label-DLFileEntry=Documents et Médias
+label-MBMessage=Forums Babillard
+label-CalEvent=Evénements de Calendrier
+label-BlogsEntry=Blogs
+label-WikiPage=Wiki
+label-User=Utilisateurs
+label-group=Groupes
+
+#Trend Keys
+trend-admin-num-days=Nombre de jours utilisés pour générer des tendances:
+trend-admin-num-results=Nombre de résultats:
+trend-admin-content-type-list=Les types de contenu à rechercher tendances
+trend-admin-date-field=Champ Date
+trend-title=Les tendances actuelles
+trend-empty-topics=Il n'y a pas de sujets tendances à afficher.
+trend-empty-content-types=Il n'y a pas de types de contenu configurés.
+
+
+##Related Content
+related-admin-title=Connexes Paramètres de contenu
+related-admin-number-of-results=Nombre de résultats:
+related-admin-item-types=Types d'élément
+related-message-empty-results=Il n'y a pas d'articles connexes.
+related-search-container-title=Articles connexes
+
+
+#Recommender Keys
+recommender-message-empty-results=Il n'y a pas de recommandations pour vous.
+recommender-message-title=Nous vous recommandons
+recommender-message-refresh-recommendations=Actualisez Recommandations
+recommender-search-container-title=Recommandations
+recommender-hover-like-message=Aimer ou non pour de meilleures recommandations.
+recommender-admin-results-page=Cible Page de résultats
+recommender-admin-results-page-description=La page de résultats cibles doit avoir un Editeur Asset portlet présente.
+recommender-admin-window-state=État Résultat de fenêtre
+recommender-admin-category-list=Limitez les résultats de recommandation à des catégories particulières.
+recommender-admin-structure-list=Limitez les résultats de recommandation à des structures particulières.
+recommender-admin-content-type-list=Les types de contenu pour les recommandations.
+recommender-admin-title=Paramètres recommandés
+recommender-admin-num-results=Nombre de recommandations
